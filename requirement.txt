@@ -2,8 +2,8 @@ streamlit
 streamlit-webrtc
 av
 mediapipe
+tensorflow
 opencv-python-headless
 numpy
 pandas
 Pillow
-tensorflow
